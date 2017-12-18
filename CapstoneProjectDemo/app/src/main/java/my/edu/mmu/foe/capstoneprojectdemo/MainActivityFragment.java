@@ -20,7 +20,7 @@ import java.util.UUID;
 public class MainActivityFragment extends Fragment {
 
     // Please modify it to the correct BLE MAC Address
-    private static final String ADDRESS = "00:1A:7D:DA:71:13";
+    private static final String ADDRESS = "B8:27:EB:1E:A1:F5";
 
     private static final String CAPSTONE_SERVICE_UUID = "13333333-3333-3333-3333-333333333337";
 
